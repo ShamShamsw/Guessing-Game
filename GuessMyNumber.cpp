@@ -1,5 +1,3 @@
-// Create a guessing game
-
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
